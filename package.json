@@ -1,11 +1,15 @@
 {
   "name": "jake",
   "main": "./lib/jake",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Run Jakefile tasks from Atom. Syntax highlighting included.",
-  "keywords": ["jake", "Jakefile", "task", "build"],
+  "keywords": [
+    "jake",
+    "Jakefile",
+    "task",
+    "build"
+  ],
   "activationCommands": {
-    "atom-workspace": "jake:open",
     "atom-workspace": "jake:run"
   },
   "author": "nounoursheureux <schtroumps31@gmail.com>",
