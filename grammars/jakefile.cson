@@ -1,0 +1,8 @@
+'scopeName': 'source.jakefile'
+'name': 'Jakefile'
+'fileTypes': [
+  'Jakefile'
+]
+'patterns': [
+  'include': 'source.js'
+]
