@@ -13,8 +13,8 @@
     "atom-workspace": "jake:run"
   },
   "author": "nounoursheureux <schtroumps31@gmail.com>",
-  "repository": "https://github.com/nounoursheureux/atom-jake",
-  "license": "WTFPL",
+  "repository": "https://github.com/nounoursheureux/jake",
+  "license": "BSD",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
