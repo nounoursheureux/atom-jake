@@ -10,7 +10,7 @@
     "build"
   ],
   "activationCommands": {
-    "atom-workspace": "jake:run"
+    "atom-workspace": ["jake:run", "jake:open"]
   },
   "author": "nounoursheureux <schtroumps31@gmail.com>",
   "repository": "https://github.com/nounoursheureux/jake",
