@@ -1,7 +1,7 @@
 {
   "name": "jake",
   "main": "./lib/jake",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Run Jakefile tasks from Atom. Syntax highlighting included.",
   "keywords": [
     "jake",
@@ -10,7 +10,10 @@
     "build"
   ],
   "activationCommands": {
-    "atom-workspace": ["jake:run", "jake:open"]
+    "atom-workspace": [
+      "jake:run",
+      "jake:open"
+    ]
   },
   "author": "nounoursheureux <schtroumps31@gmail.com>",
   "repository": "https://github.com/nounoursheureux/jake",
